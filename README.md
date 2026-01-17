@@ -1,6 +1,6 @@
-# NuHub 🕌
+# NurHub 🕌
 
-NuHub is an Islamic Android application created to support Muslims in their daily religious practices. The app focuses on accessibility, offline usage, and ease of navigation.
+NurHub is an Islamic Android application created to support Muslims in their daily religious practices. The app focuses on accessibility, offline usage, and ease of navigation.
 
 It provides accurate prayer times using free public APIs, step-by-step prayer guidance, Quran and Hadith access (online and offline), Tafsir, a Tasbih counter, and a Hijri calendar.
 
